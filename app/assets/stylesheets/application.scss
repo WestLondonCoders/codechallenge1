@@ -12,3 +12,9 @@
  *
  *= require_self
  */
+
+body {
+  height: 100vh;
+  background-image: linear-gradient($color-blue, $color-pale-blue);
+  color: $color-white;
+}
