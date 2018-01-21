@@ -13,6 +13,8 @@
  *= require_self
  */
 
+@import 'colours';
+
 body {
   height: 100vh;
   background-image: linear-gradient($color-blue, $color-pale-blue);
